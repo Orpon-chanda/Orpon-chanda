@@ -26,7 +26,9 @@ Embedded systems · Robotics · Line Follower Robots (PID) · Arduino / AVR
 - [PWM](../PWM) — AC dimmer via zero-cross + TRIAC
 - [Bluthoot_Car](../Bluthoot_Car) — Bluetooth car
 
-**Contact:** `934906Rj` · GitHub [@Orpon-chanda](https://github.com/Orpon-chanda)
+**ORCID:** [0009-0004-3062-4989](https://orcid.org/0009-0004-3062-4989)
+
+**Contact:** `orpon137@gmail.com` · GitHub [@Orpon-chanda](https://github.com/Orpon-chanda)
 
 ![](https://komarev.com/ghpvc/?username=Orpon-chanda&color=blue)
 ```
